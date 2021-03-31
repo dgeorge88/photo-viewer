@@ -14,8 +14,6 @@ The Photo Viewer App used a React front-end, with an Express back-end connected 
 **Back-end:**
 - Express standard components
 - Node Postgres
-- Cors
-- Donenv
 
 ## [Deno Photo App](https://github.com/dgeorge88/deno-photo-app)
 The same App using a Deno back-end instead of Express. 
